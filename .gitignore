@@ -1,0 +1,5 @@
+vendor/*
+.phpunit.result.cache
+phpunit.xml
+.DS_Store
+reports/*
